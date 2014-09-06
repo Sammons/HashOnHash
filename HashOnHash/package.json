@@ -1,0 +1,10 @@
+{
+  "name": "HashOnHash",
+  "version": "0.0.0",
+  "description": "HashOnHash",
+  "main": "server.js",
+  "author": {
+    "name": "Ben",
+    "email": ""
+  }
+}
